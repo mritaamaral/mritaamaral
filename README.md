@@ -16,14 +16,11 @@
 ```python
 class MariaRita:
     role = "Technology Student"
-
     interests = [
         "Software Development",
         "UI/UX Design",
         "Database Management"
     ]
-
-    mindset = "Always learning and creating"
 ```
 
 </div>
