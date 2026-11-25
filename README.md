@@ -26,7 +26,6 @@ class MariaRita:
         "UI/UX Design",
         "Database Management"
     ]
-    mindset = "Always learning and creating"
 ```
 
 I'm passionate about technology, design, and problem-solving.
