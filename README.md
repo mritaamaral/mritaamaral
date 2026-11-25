@@ -34,7 +34,7 @@ I enjoy combining creativity and logic to build digital experiences, explore new
 
 <div align="center">
 
-Creating with purpose. Learning with curiosity.
+♡ Creating with purpose. Learning with curiosity.
 
 </div>
 
@@ -147,7 +147,8 @@ Combining JavaScript, UI/UX and web technologies.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B98BE8,100:1A1026&height=110&section=footer" width="100%"/>
 
+**Thanks for visiting my profile!**
 
-<sub>Made with curiosity, creativity and a little bit of code.</sub>
+<sub>Made with curiosity, creativity and a little bit of code. ♡</sub>
 
 </div>
