@@ -9,9 +9,14 @@
 
 ---
 
+
 ## ✦ About Me
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C69BEF&center=true&vCenter=true&width=500&lines=Technology+Student;Creative+Problem+Solver;Always+Learning" />
+
+</div>
 
 ```python
 class MariaRita:
@@ -21,13 +26,12 @@ class MariaRita:
         "UI/UX Design",
         "Database Management"
     ]
+    mindset = "Always learning and creating"
 ```
 
-</div>
+I'm passionate about technology, design, and problem-solving.
 
-I'm a technology student passionate about software development, design, and problem-solving.
-
-I enjoy combining creativity and logic to build digital experiences, explore new technologies, and turn ideas into practical solutions.
+I enjoy combining creativity and logic to build digital experiences and turn ideas into practical solutions.
 
 <div align="center">
 
