@@ -34,7 +34,7 @@ I enjoy combining creativity and logic to build digital experiences, explore new
 
 <div align="center">
 
-♡ Creating with purpose. Learning with curiosity.
+Creating with purpose. Learning with curiosity.
 
 </div>
 
