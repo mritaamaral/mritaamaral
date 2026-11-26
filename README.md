@@ -123,9 +123,9 @@ Combining JavaScript, UI/UX and web technologies.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=161020&title_color=C69BEF&icon_color=C69BEF&text_color=E8DDF3&ring_color=C69BEF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mritaamaral&show_icons=true&hide_border=true&bg_color=161020&title_color=C69BEF&icon_color=C69BEF&text_color=E8DDF3&ring_color=C69BEF"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=161020&title_color=C69BEF&text_color=E8DDF3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mritaamaral&layout=compact&hide_border=true&bg_color=161020&title_color=C69BEF&text_color=E8DDF3"/>
 
 </div>
 
