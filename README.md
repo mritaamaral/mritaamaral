@@ -14,8 +14,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C69BEF&center=true&vCenter=true&width=500&lines=Technology+Student;Creative+Problem+Solver;Always+Learning" />
-
 </div>
 
 ```python
